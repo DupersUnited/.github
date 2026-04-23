@@ -1,1 +1,2 @@
-# larp larp larp
+# DupersUnited GitHub Repos
+discord.gg/dupes
