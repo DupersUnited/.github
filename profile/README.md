@@ -1,2 +1,2 @@
-# DupersUnited GitHub Repos
+# DupersUnited's GitHub Repos
 discord.gg/dupes
